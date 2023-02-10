@@ -29,6 +29,7 @@ func TestFib(t *testing.T) {
 		{0, 0},
 		{1, 1},
 		{2, 1},
+		{3, 2},
 		// her kan vi bare legge på nye test cases
 	}
 
